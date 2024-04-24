@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM debian:12.5
 
 # Build with:
 # docker build --tag jstrieb/paperify:latest .
